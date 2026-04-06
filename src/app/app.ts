@@ -8,5 +8,5 @@ import { RouterOutlet, RouterLink } from '@angular/router';
   styleUrl: './app.css'
 })
 export class App {
-  protected readonly title = signal('Week12_Navigation_ReactiveForms');
+  protected readonly title = signal('Week12 Angular Navigation and ReactiveForms');
 }
